@@ -13,7 +13,7 @@ ___
 - 🐇 Fast Verification
 - 🛡️ More Secure than other service, Doesn't let pass AI!<br>
 
-Interested? [read the docs](https://nonstress.gitbook.io/nonstress-docs) and use it now!
+Interested? [read the docs](https://nonstress.gitbook.io/nonstress-docs) and get started now!
 ___
 ### ⛓ Links
 <img src="https://logo.clearbit.com/discord.com" style="width:1rem"> [Come The Discord Server!](https://discord.gg/Wh279Ryt65), Discord Username: `hamutan_86.`<br>
