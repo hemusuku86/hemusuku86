@@ -1,4 +1,9 @@
 ## Hi there 👋
+### ⛓ Links
+<img src="https://logo.clearbit.com/discord.com" style="width:1rem"> [Come My Discord Server](https://discord.gg/Wh279Ryt65), Discord Username: `hamutan_86.`<br>
+<img src="https://logo.clearbit.com/twitter.com" style="width:1rem"> My Twitter: [@hamks_hashtag](https://x.com/hamks_hashtag)<br>
+### 🖼️ Profile & Projects
+Hello! I'm interested in CAPTCHA/antibot technologies, so i'm making CAPTCHA solver and original antibot system.
 
 <!--
 **hemusuku86/hemusuku86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
