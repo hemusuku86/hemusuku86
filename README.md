@@ -6,7 +6,7 @@ ___
 <a href="https://github.com/hemusuku86/prosopo-procaptcha"><img src="https://github.com/hemusuku86/hemusuku86/blob/main/prosopo.png?raw=true" style="width:3rem"></a>
 <a href="https://github.com/hemusuku86/MTCaptcha-solver"><img src="https://github.com/hemusuku86/hemusuku86/blob/main/mtcaptcha.png?raw=true" style="width:3rem"></a>
 <a href="https://github.com/hemusuku86/lemin-captcha-solver"><img src="https://github.com/hemusuku86/hemusuku86/blob/main/lemin.png?raw=true" style="width:3rem"></a><br>
-・Recaptcha v3 (Private)<br>
+and Recaptcha v3 (Private)<br>
 ...and more
 ___
 **🛡️ Antibot Service**<br><br>
