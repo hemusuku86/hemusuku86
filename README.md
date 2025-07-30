@@ -8,6 +8,7 @@ ___
 <a href="https://github.com/hemusuku86/MTCaptcha-solver"><img src="https://github.com/hemusuku86/hemusuku86/blob/main/mtcaptcha.png?raw=true" style="width:3rem"></a>
 <a href="https://github.com/hemusuku86/lemin-captcha-solver"><img src="https://github.com/hemusuku86/hemusuku86/blob/main/lemin.png?raw=true" style="width:3rem"></a><br>
 and Recaptcha v3 (Private)<br>
+and a dev member of [skysolve.xyz](https://skysolve.xyz) (hCaptcha solver & more)<br>
 ...and more
 ___
 **🛡️ Antibot Service**<br><br>
