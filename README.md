@@ -1,4 +1,4 @@
-`☕Buy me a coffee (Litecoin): ltc1qh3su75nfr4skfvpg3mrlztye4dcfhjvdvfeunp (please please please i have only $0.45 💀)`
+`☕Buy me a coffee (Litecoin): ltc1qh3su75nfr4skfvpg3mrlztye4dcfhjvdvfeunp`
 ## Hi there 👋
 ### 🖼️ Profile & Projects
 Hello! I'm interested in CAPTCHA/antibot technologies, so i'm making CAPTCHA solver and original antibot system.<br>
