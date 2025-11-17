@@ -13,11 +13,11 @@ and a dev member of [skysolve.xyz](https://skysolve.xyz) (hCaptcha solver & more
 ___
 **🛡️ Antibot Service**<br><br>
 [nonstress](https://nonstress.gitbook.io/nonstress-docs), powerful and stress-free antibot solution.<br>
-- 😄 Completely Invisible, High user experience
-- 🐇 Fast Verification
-- 🛡️ More Secure than other service, Doesn't let pass AI!<br>
+- 😊Frictionless - Detect malicious actors silently in the background, No CAPTCHAs, no frustration.
+- 📱Device Fingerprinting - Create unique, persistent device fingerprints and track devices across sessions and browsers.
+- 🐇Rapid Verification - The verification will be done in average under 1s. <br>
 
-Interested? [read the docs](https://nonstress.gitbook.io/nonstress-docs) and get started now!
+Interested? [read the docs](https://nonstress.mintlify.app/) and get started now!
 ___
 ### ⛓ Links
 <img src="https://logo.clearbit.com/discord.com" style="width:1rem"> [Come The Discord Server!](https://discord.gg/Wh279Ryt65), Discord Username: `hamutan_86.`<br>
